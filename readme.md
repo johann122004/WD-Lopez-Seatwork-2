@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/johann122004/WD-Lopez-Seatwork-2">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/SCP_Logo.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 2: Formulating HTML</h3>
