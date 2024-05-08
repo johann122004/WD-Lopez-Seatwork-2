@@ -1,0 +1,17 @@
+For  creating the template of the website: type the ! symbol, then click enter
+For  creating the elements simply, type the tag of an element.
+Example: nav
+<nav>
+</nav>
+For multiplying the number of element, type the tag of an element, then add a * then put any value to double the number of tags.
+Example: p*3
+<p></p>
+<p></p>
+<p></p>
+For nesting elements inside each other, type the tag of an element, then type the > operator to add another tag inside.
+div>ul>li
+<div>
+    <ul>
+        <li></li>
+    </ul>
+</div>
