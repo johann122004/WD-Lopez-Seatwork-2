@@ -78,13 +78,13 @@ Guiding Question:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Rules and Principles
-# General Guide
+### General Guide
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
-# Seatwork 2 Guide
+### Seatwork 2 Guide
 1. Select from Pinterest/Behance or any website that provides a complete 1 page design of website/landing page
-    (full website - must consist of header, footer and some sections) 
+    (full website - must consist of header, footer and some sections)
 2. Create a wireframe of the website, document it same as seatwork 1
 3. Formulate Emmet Codes to implement making the coding faster
 4. Create a github repository(duplicate the template) and do some practice code for checking of your emmet code
