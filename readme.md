@@ -61,7 +61,9 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  - The Project is the 2nd Seatwork for Web Design with Client Side Scripting.
 - Whats the purpose
+  - The purpose of the project is to familiarize the user with Web Design.
 - What are key components
 - What technology used and how it is used
 
