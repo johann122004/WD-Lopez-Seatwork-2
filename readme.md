@@ -49,7 +49,7 @@
       <a href="#resources">Resources</a>
     </li>
     <li>
-      <a href="#Documentation">Documentation</a>
+      <a href="#documentation">Documentation</a>
     </li>
   </ol>
 </details>
