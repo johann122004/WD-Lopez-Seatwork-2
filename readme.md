@@ -9,7 +9,7 @@
     <img src="./assets/img/SCP_Logo.png" alt="Nyebe" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Seatwork 2: Formulating HTML</h3>
+  <h3 align="center">Formulating HTML or Webpage</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -47,6 +47,9 @@
     </li>
     <li>
       <a href="#resources">Resources</a>
+    </li>
+    <li>
+      <a href="#Documentation">Documentation</a>
     </li>
   </ol>
 </details>
@@ -95,6 +98,8 @@ Guiding Question:
     note: add the documentation in the github repository created in step 3 and 4
 5. Submit the repository link
     (in the url of same as this, is what you call a repo link. since the site is the repository of the project)
+
+## Documentation
 
 ```
 WD-ProjectName
