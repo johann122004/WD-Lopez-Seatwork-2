@@ -15,3 +15,6 @@ div>ul>li
         <li></li>
     </ul>
 </div>
+To indicate a class, add a dot .
+example: nav.name
+<nav class="name"></nav>
