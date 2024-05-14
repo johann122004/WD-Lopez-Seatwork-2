@@ -68,7 +68,9 @@ Guiding Question:
 - Whats the purpose
   - The purpose of the project is to familiarize the user with Web Design.
 - What are key components
+  - The key components that are used are a Single Page Website component, a Parallax transition component, and a Transactional component
 - What technology used and how it is used
+  - The technology that are used are HTML and CSS. The HTML is used for creating the main body of the website. The CSS is used for designing and arranging the elements placed in HTML file.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
