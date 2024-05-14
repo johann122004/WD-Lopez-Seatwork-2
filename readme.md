@@ -129,4 +129,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| SCP Logo | Serving as the logo for this cover. | https://en.wikipedia.org/wiki/File:Logo_of_the_SCP_Foundation.png |
+| Website Design | Serving as blueprint for the Website. | https://www.pinterest.com/pin/emily-grace-a-blog-shop-theme--426927239676731843/ |
