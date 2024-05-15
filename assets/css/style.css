@@ -28,7 +28,7 @@ header {
     width: 90vw;
     top: 0px;
     left: 0px;
-    background-color: rgb(238, 190, 151);
+    background-color: rgb(151, 174, 238);
 }
 
 header button {
@@ -41,8 +41,8 @@ header button {
     height: 6vh;
     border-bottom: 2px transparent;
     &:hover {
-        background-color: rgb(173, 146, 88);
-        border-bottom: 2px rgb(221, 223, 115) solid;
+        background-color: rgb(88, 173, 173);
+        border-bottom: 2px rgb(115, 223, 182) solid;
     }
 }
 
@@ -107,5 +107,5 @@ section.villain {
 }
 
 body {
-    background-color: bisque;
+    background-color: rgb(167, 195, 255);
 }
