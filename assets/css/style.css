@@ -71,12 +71,6 @@ section.hero .left{
     & h1 {
         font-size: 5rem;
     }
-    & h2 {
-        font-size: 3rem;
-    }
-    & p {
-        font-size: 1.5rem;
-    }
 }
 section.hero .left{
     width: 100%;
