@@ -4,7 +4,7 @@
 }
 
 /* Dev */
-/*header,
+header,
 header * {
     outline: 1px blue dashed;
 }
@@ -16,7 +16,7 @@ section.hero *{
 
 section.villain,
 section.villain *{
-    outline: 1px yellow dashed;
+    outline: 1px green dashed;
 }
 /* Dep */
 header {
