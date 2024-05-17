@@ -28,7 +28,11 @@ header {
     width: 90vw;
     top: 0px;
     left: 0px;
-    background-color: rgb(151, 174, 238);
+    background-color: rgb(198, 213, 255);
+}
+
+body {
+    background-color: rgb(167, 195, 255);
 }
 
 header button {
@@ -51,6 +55,7 @@ section.hero {
     margin: .3rem 5vw 0;
     height: 100vh;
     padding-top: 5vh;
+    border: 10px solid aquamarine;
 }
 
 & .right {
@@ -70,6 +75,7 @@ section.hero .left{
 
     & h1 {
         font-size: 5rem;
+        text-align: center;
     }
 }
 section.hero .left{
@@ -104,8 +110,5 @@ section.villain {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: blueviolet;
     }
-}
-
-body {
-    background-color: rgb(167, 195, 255);
+    border: 10px solid rgb(193, 127, 255)
 }
