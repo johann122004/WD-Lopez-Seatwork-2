@@ -68,16 +68,15 @@ Guiding Question:
 - Whats the purpose
   - The purpose of the project is to familiarize the user with Web Design.
 - What are key components
-  - The key components that are used are a Single Page Website component, a Parallax transition component, and a Transactional component
+  - The key components that are used are a Single Page Website component, and a Parallax transition component.
 - What technology used and how it is used
-  - The technology that are used are HTML and CSS. The HTML is used for creating the main body of the website. The CSS is used for designing and arranging the elements placed in HTML file.
+  - The technology that are used are HTML and CSS. The HTML is used for creating the main body of the website. The CSS is used for designing and arranging the elements placed in HTML file. Specifically External CSS is used for this website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- Single Page Website
 - Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -132,4 +131,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | SCP Logo | Serving as the logo for this cover. | https://en.wikipedia.org/wiki/File:Logo_of_the_SCP_Foundation.png |
-| Website Design | Serving as blueprint for the Website. | https://www.pinterest.com/pin/emily-grace-a-blog-shop-theme--426927239676731843/ |
+| Website Design | Serving as a good idea for a Website design. | https://www.pinterest.com/pin/emily-grace-a-blog-shop-theme--426927239676731843/ |
