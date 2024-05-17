@@ -13,7 +13,9 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This Seatwork is about Formulating HTML and using Emmet Codes. (Optional)
+  This Seatwork is about Formulating HTML and using Emmet Codes.
+  <br>
+  Revised and Modified by Johann A. Lopez
 </div>
 
 <br />
