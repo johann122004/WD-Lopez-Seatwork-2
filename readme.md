@@ -132,3 +132,4 @@ WD-ProjectName
 |-|-|-|
 | SCP Logo | Serving as the logo for this cover. | https://en.wikipedia.org/wiki/File:Logo_of_the_SCP_Foundation.png |
 | Website Design | Serving as a good idea for a Website design. | https://www.pinterest.com/pin/emily-grace-a-blog-shop-theme--426927239676731843/ |
+|How TO - Parallax Scrolling | For helping in adding a parallax scrolling effect for the website. | https://www.w3schools.com/howto/howto_css_parallax.asp |
