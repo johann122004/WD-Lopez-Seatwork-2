@@ -5,7 +5,7 @@
 }
 
 /* Dev */
-/*header,
+header,
 header * {
     outline: 1px blue dashed;
 }
@@ -18,6 +18,11 @@ section.hero *{
 section.villain,
 section.villain *{
     outline: 1px green dashed;
+}
+
+footer,
+footer *{
+    outline: 1px orange dashed;
 }
 /* Dep */
 header {
@@ -113,12 +118,13 @@ section.villain {
     justify-content: center;
     margin: 5rem 6vw 0;
     height: 60vh;
-    padding-top: 10vh;
+    padding-top: 5vh;
     & h1 {
         font-size: 1.75rem;
-        font-family: = Tahoma;
+        font-family: Tahoma;
         color: rgb(93, 16, 165);
         text-align: center;
+        margin-left: 150px;
     }
     & h2 {
         font-size: 1.25rem;
@@ -138,12 +144,30 @@ section.villain {
     background-color: rgba(168, 215, 255, 0.445);
 }
 
+section.villain .pi{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
+section.villain .resume{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
 footer {
     display:flex;
     justify-content: center;
     padding: -1rem -5vw 0;
     align-items: center;
-    position: ;
+    position: relative;
     width: 100%;
     top: 0px;
     left: 0px;
