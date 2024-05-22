@@ -30,6 +30,7 @@ header {
     top: 0px;
     left: 0px;
     background-color: rgb(198, 213, 255);
+    z-index: 999;
 }
 
 body {
@@ -79,6 +80,10 @@ section.hero .left{
     align-items: flex-start;
     justify-content: center;
     gap: 16px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
 
     & h1 {
         font-size: 3rem;
@@ -87,12 +92,6 @@ section.hero .left{
         position: relative;
         left: 115px;
     }
-}
-section.hero .left{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: top;
 }
 
 section.hero .right {
@@ -137,7 +136,7 @@ section.villain {
 footer {
     display:flex;
     justify-content: center;
-    padding: -.8rem -5vw 0;
+    padding: -1rem -5vw 0;
     align-items: center;
     position: ;
     width: 100%;
@@ -150,5 +149,6 @@ footer {
         color: brown;
         text-align: center;
         text-decoration: underline;
+        font-style: oblique;
     }
 }
