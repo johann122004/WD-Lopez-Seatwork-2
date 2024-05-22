@@ -111,20 +111,20 @@ section.villain {
     height: 60vh;
     padding-top: 10vh;
     & h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
         font-family: = Tahoma;
         color: rgb(93, 16, 165);
         text-align: center;
     }
     & h2 {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
         font-family: Helvetica;
         color: rgb(255, 174, 0);
         padding-left: 40px;
     }
     & h3 {
         margin-left: 50px;
-        font-size: 1.5rem;
+        font-size: 1.25rem;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: rgb(253, 176, 88);
         padding-left: 40px;
