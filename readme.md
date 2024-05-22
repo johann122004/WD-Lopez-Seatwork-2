@@ -79,7 +79,9 @@ Guiding Question:
 <!-- The following are just sample -->
 - Single Page Website
 - Parallax transition
-
+- Personal Information
+- Resume Information
+- Contact Information
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
