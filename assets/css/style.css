@@ -108,7 +108,7 @@ section.villain {
     display: flex;
     justify-content: center;
     margin: 5rem 6vw 0;
-    height: 125vh;
+    height: 60vh;
     padding-top: 10vh;
     & h1 {
         font-size: 2rem;
