@@ -1,3 +1,10 @@
 body {
-    font-size: 5rem;
+    background-color: bisque;
+}
+
+section.2024 {
+    display: flex;
+    margin: .3rem 5vw 0;
+    height: 100vh;
+    padding-top: 5vh;
 }
