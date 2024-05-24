@@ -137,4 +137,5 @@ WD-ProjectName
 | Website Design | Serving as a good idea for a Website design. | https://www.pinterest.com/pin/emily-grace-a-blog-shop-theme--426927239676731843/ |
 | How TO - Parallax Scrolling | For helping in the static background. | https://www.w3schools.com/howto/howto_css_parallax.asp |
 | Gradient Background | Background image for the Website | https://www.freepik.com/free-vector/black-abstract-background_14904187.htm |
-| CSS Height, Width and Max-width|For helping in the size of the image |https://www.w3schools.com/css/css_dimension.asp|
+| CSS Height, Width and Max-width|For helping in the styling of the image |https://www.w3schools.com/css/css_dimension.asp|
+| CSS text-decoration Property |For guidance in adding the underline in the text|https://www.w3schools.com/cssref/pr_text_text-decoration.php|
