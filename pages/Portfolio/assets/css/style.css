@@ -10,7 +10,7 @@ section.year_2024 *{
 
 body {
     background-color: bisque;
-    & p {
+    & h1 {
         font-size: 4rem;
         padding-left: 100px;
         padding-bottom: 40px;
@@ -62,5 +62,32 @@ section.year_2024 .right{
         margin-bottom: 25px;
         width: 75%;
         height: 75%;
+    }
+}
+
+footer {
+    display:flex;
+    justify-content: center;
+    padding: -1rem -5vw 0;
+    margin-top: 10px;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color:rgb(129, 116, 99);
+    & h4{
+        font-size: 1.5rem;
+        font-style: italic;
+        color: red;
+        text-align: center;
+    }
+    & p {
+        font-size: 1.5rem;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(128, 45, 45);
+        text-align: center;
+        text-decoration: underline;
+        font-style: oblique;
     }
 }
