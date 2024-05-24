@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+section.2024,
+section.2024 *{
+    outline: 1px red dashed;
+}
+
+body {
+    background-color: bisque;
+}
+
+section.images{
+    img.one {
+        width: 50%;
+        height: 50%;
+    }
+    img.two {
+        width: 50%;
+        height: 50%;
+    }
+}
