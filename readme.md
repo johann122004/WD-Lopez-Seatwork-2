@@ -104,6 +104,28 @@ Guiding Question:
     (in the url of same as this, is what you call a repo link. since the site is the repository of the project)
 
 ## Documentation
+Changes I have made for this entire repository.
+1. Initial commit
+2. Created for Seatwork 2
+3. I changed some of the Prof's link with my own
+4. Changed the Logo of the readme.md
+5. Fixed the size of the logo
+6. Updated emmet.txt
+7. Only removed the Javascript part in the list of Technology used part.
+8. Added a guide for Seatwork 2 in the Rules and Principles
+9. Made the headings for General Guide and Seatwork 2 Guide smaller
+10. Added answers for 2 of the Guiding Questions.
+11. Added a space between General Guide and Seatwork 2 Guide
+12. Updated the Table of Contents. Included a Documentation content.
+13. Fixed the link for Documentation
+14. Updated index.html, style.css, emmet.txt,
+15. Managed to add an image in index.html
+16. Updated the Resources
+17. Updated the Guiding Question with more answers.
+18. Create static.yml / Deployed Website.
+19. updated style.css
+20. Merge branch 'main' of https://github.com/johann122004/WD-Lopez-Seatwork-2
+Site of All of the Commits done: https://github.com/johann122004/WD-Lopez-Seatwork-2/commits/main/?before=0c51c2e3afd22999127f3fdbedf7751848a9447b+35
 
 ```
 WD-ProjectName
